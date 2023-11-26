@@ -1,3 +1,12 @@
+streamlit
+pypdf2
+langchain
+faiss-cpu
+huggingface_hub
 openai
 python-dotenv
-tkinter
+tiktoken
+
+#InstructorEmbedding (option 2 SLOW)
+InstructorEmbedding
+sentence_transformers
